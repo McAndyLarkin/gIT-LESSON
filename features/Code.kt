@@ -5,4 +5,5 @@ fun main() {
     step4()
     step5()
     step6()
+    feature1()
 }
