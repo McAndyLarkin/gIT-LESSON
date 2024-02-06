@@ -1,4 +1,5 @@
 fun main() {
+    sdfjvdfsn()
     step1()
     step2()
     step3()
@@ -6,4 +7,6 @@ fun main() {
     step5()
     step6()
     feature1()
+    feature2()
+    feature3()
 }
