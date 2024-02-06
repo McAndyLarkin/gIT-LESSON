@@ -6,5 +6,6 @@ fun main() {
     step5()
     step6()
     feature1()
+    feature2()
     feature3()
 }
