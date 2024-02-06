@@ -11,5 +11,5 @@ fun main() {
     feature3()
     feature4(1+2)
 
-    feature6(1+2234234+ 234324)
+    feature6(1+2234234+ 234324 + weksfjnsekj)
 }
